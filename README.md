@@ -30,7 +30,9 @@ Rock Paper Scissors Project
 5. The game continues until you decide to stop playing.  
 
 ## Screenshots  
-
+<img src="rps-1.png" alt="Game layout reference 1">
+<img src="rps-2.png" alt="Game layout reference 2">
+<img src="rps-3.png" alt="Game layout reference 3">
 
 ## Contribution  
 Contributions are welcome!  
